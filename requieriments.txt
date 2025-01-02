@@ -1,0 +1,5 @@
+yt-dlp==2023.7.1
+colorama==0.4.6
+moviepy==1.0.3
+pyfiglet==0.8.post1
+imageio-ffmpeg==0.4.7
